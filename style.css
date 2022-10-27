@@ -1,0 +1,39 @@
+h3{
+    margin-right:900px;
+}
+
+#prediction{
+    margin-left:700px;
+}
+
+body{
+    color:lightblue;
+}
+
+span{
+    font-size: 30px;
+}
+
+#camera1 , #result{
+  border: 2px dashed white;
+  width: 350px;
+  height: 300px; 
+}
+
+#result_gesture_name{
+  color: black;
+}
+
+.gesture_name{
+  font-size: 40px;
+}
+
+.gesture{
+  font-size:48px;
+}
+
+.heading{
+    font-size: 18px;
+    border-radius: 10px;
+    letter-spacing: 10px;
+}
